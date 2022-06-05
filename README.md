@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+From quality of code to a great user experience, 
+I strive for everything. <br/>Full stack **Developer**.
+
 <!--
 **arifamir/arifamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
