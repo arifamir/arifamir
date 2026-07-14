@@ -1,20 +1,135 @@
-# 💫 About Me:
-✔ Over 12 years of experience as a PHP Developer with strong coding and problem-solving skills.<br>✔ Proficient in using Content Management Systems such as Directus, Strapi, and WordPress.<br>✔ Skilled in building interactive admin panels and internal tools using react-admin and refine.dev.<br>✔ Experienced in developing Restful web services and Micro Services using Go language, including the implementation of REST services with a microservices architecture and distributed systems.<br>✔ Well-versed in designing, developing, implementing, and deploying applications on cloud platforms such as AWS and GCP.<br>✔ Proficient in using Docker and Kubernetes, as well as Git and Bitbucket.<br>✔ Experienced in creating user stories and reports using tools like JIRA, Monday, and Trello.<br>✔ Skilled in designing database schemas with complex entity relationships, and proficient in Agile and Waterfall methodologies.<br>✔ Experienced in developing distributed components using PHP, XML, JDBC, Ajax, jQuery, JavaScript, and CSS.<br>✔ Proficient in writing SQL queries, stored procedures, triggers, and functions, and familiar with several RDBMS.<br>✔ Strong communication and interpersonal skills, with the ability to work independently and as part of a team. Self-motivated and hardworking.
+# Hi there 👋 I'm M. Arif Amir
 
+### Senior Full Stack Engineer | Building scalable SaaS platforms, cloud-native systems & modern web applications
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marifamir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@marifamir) 
+I'm a Senior Full Stack Engineer with **15+ years of experience** designing and building secure, scalable software for startups and enterprise products. My expertise spans backend architecture, frontend engineering, cloud infrastructure, and developer experience.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arifamir&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arifamir&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifamir&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy building products that solve real business problems—from compliance platforms and subscription services to API-first architectures and internal developer tooling.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+---
 
+## 🚀 About Me
 
-## 💰 You can help me by Donating
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marifamir) 
+* 💼 15+ years building production software across Europe and the Middle East
+* ⚛️ Full Stack Engineer specializing in **TypeScript, React, Next.js and Node.js**
+* 🔧 Backend engineer with experience designing **REST APIs, GraphQL APIs and distributed systems**
+* ☁️ Cloud-native development with **AWS, GCP, Kubernetes, Docker and Terraform**
+* 🗄️ Experienced with PostgreSQL, Supabase, Redis and scalable data architectures
+* 🔐 Strong focus on security, authentication and compliance (SAML, OAuth2, MFA, RBAC)
+* 🧩 Extensive experience with Headless CMS platforms including **Directus**, WordPress and Shopify
+* 🤖 Daily user of AI development tools including ChatGPT, Claude and Cursor to accelerate development while maintaining engineering quality
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+TypeScript • JavaScript • PHP • SQL
+
+### Frontend
+
+React • Next.js • React Native • Tailwind CSS • Vite
+
+### Backend
+
+Node.js • Hono.dev • REST APIs • GraphQL • Directus • WordPress
+
+### Databases
+
+PostgreSQL • MySQL • Supabase • Firestore • Redis • Memcached
+
+### Cloud & DevOps
+
+AWS • Google Cloud • Kubernetes • Docker • Terraform • Helm • GitHub Actions • CircleCI
+
+### Security
+
+SAML • OAuth2 • Authelia • Authentik • MFA • RBAC
+
+---
+
+# 🚀 Featured Projects
+
+### 🌱 Sustance
+
+A cloud-native sustainability platform helping organizations manage CSRD, SDGs and ISO 26000 compliance.
+
+**Highlights**
+
+* Multi-tenant SaaS architecture
+* Secure authentication with SAML & MFA
+* REST APIs built with Hono.dev
+* Kubernetes & Terraform infrastructure
+* Automated deployments with GitHub Actions
+
+**Tech:** Next.js • Node.js • Hono.dev • PostgreSQL • Supabase • Kubernetes • Terraform
+
+---
+
+### 🌍 WhyWay
+
+Sustainability reporting and business strategy platform with localized content and secure enterprise authentication.
+
+**Tech:** React • Next.js • Directus • PostgreSQL • SAML • Authentik
+
+---
+
+### 🛒 Profilo
+
+Enterprise B2B ordering platform integrating supplier APIs, inventory synchronization and Shopify storefronts.
+
+**Tech:** Shopify • TypeScript • Node.js • Vendure • Vite
+
+---
+
+### 🥑 Diet Doctor & Hava
+
+Built and maintained high-traffic subscription products serving millions of users.
+
+Highlights include:
+
+* Headless CMS architecture
+* Personalized onboarding
+* React Native mobile development
+* Large-scale food database
+* Subscription & payment integrations
+* Performance optimization reducing load times by up to 70%
+
+---
+
+## 💼 Professional Experience
+
+* **Lead Full Stack Engineer** — Diet Doctor *(2019–2026)*
+* **Senior Software Engineer** — Yallacompare
+* **Senior Software Engineer** — TradeTracker
+* **Freelance Full Stack Developer**
+* **Senior Software Engineer** — Mindblaze Tech
+* **Software Engineer** — GSE
+
+---
+
+## 🌱 Currently Exploring
+
+* AI-powered developer workflows
+* LLM integrations
+* AI agents
+* Retrieval-Augmented Generation (RAG)
+* Modern API architecture
+* Platform engineering
+
+---
+
+## 📫 Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/marifamir
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=arifamir\&show_icons=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=arifamir)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifamir\&layout=compact)
